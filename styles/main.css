@@ -1,0 +1,55 @@
+
+/* ===== HEADER ===== */
+
+header {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-top: 2%;
+    margin-bottom: 2%;
+}
+
+h1 {
+    color: #495057;
+    display: inline-block;
+    margin: 0;
+    margin-left: 5%;
+}
+
+nav {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 1%;
+    margin-right: 5%;
+}
+
+nav div {
+    display: inline;
+    margin: 0px 0px 0px 70px;
+}
+
+nav div a {
+    text-decoration: none;
+    color: #adb5bd;
+    transition-property: color;
+    transition-duration: 500ms;
+}
+
+nav div a:hover {
+    color: #343a40;
+}
+
+/* ===== FOOTER ===== */
+
+footer {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 3% 0% 1% 0%;
+}
+
+footer h3 {
+    color: #343a40;
+    text-align: center;
+    font-size: 14px;
+}
