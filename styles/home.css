@@ -9,9 +9,8 @@ section {
     justify-content: center;
 }
 
-
 .container {
-    display: flex;
+    display: none;
     height: 75vh;
     width: 100%;
     align-items: center;
