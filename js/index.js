@@ -21,6 +21,6 @@ document.addEventListener('DOMContentLoaded', function () {
         // change displayed photo
         // by setting display attribute
         changePhoto();
-    }, 3000)
+    }, 3500)
 }) 
 
